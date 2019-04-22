@@ -56,7 +56,7 @@ namespace Dictionary
                 {
                     Console.WriteLine(lang2 + Spanish2Eng[input]);
                 }
-                else  // neither the word the user inputed is in the English or Spanish dictionary 
+                else  // neither the word the user inputed is in the English or Spanish dictionary ...
                 {
                     Console.WriteLine("Word does not exist, please try again.");
                 }
